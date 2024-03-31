@@ -392,7 +392,7 @@ export const testimonial: TestimonialSection = {
 
 export const contact: ContactSection = {
   headerText: 'Get in touch.',
-  description: 'Here is a good spot for a message to your readers to let them know how best to reach out to you.',
+  description: 'Feel free to reach out to us on email or social media for any inquiries or feedback.',
   items: [
     {
       type: ContactType.Email,
